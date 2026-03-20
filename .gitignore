@@ -210,4 +210,5 @@ __marimo__/
 .DS_Store
 .streamlit/
 .data/
+knowledge-base/
 *.pyc
